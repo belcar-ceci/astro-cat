@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import CardCat from "../components/CardCat.jsx";
-import '../assets/styles/month.css';
+import "../assets/styles/month.css";
 
 const Month = () => {
   const [month, setMonth] = useState(0);
@@ -9,9 +9,18 @@ const Month = () => {
     <div>
       <form>
         <select
+          role="combobox"
           className="select-month"
           onChange={(e) => setMonth(e.target.value)}
         >
+          <option
+            
+            value=""
+            selected="selected"
+            disabled="disabled"
+          >
+            Select a CatAstral
+          </option>
           <option value="0">Janury</option>
           <option value="1">February</option>
           <option value="2">March</option>
@@ -26,6 +35,7 @@ const Month = () => {
           <option value="11">December</option>
         </select>
       </form>
+
       <CardCat value={month} />
     </div>
   );
