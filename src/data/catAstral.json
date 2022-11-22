@@ -1,0 +1,64 @@
+{
+    "cats": [
+        {
+            "id": 1,
+            "name": "Gatit@ Hada",
+            "description": "Amig@, eres magia, dejas tu destello y luz en cada lugar que visitas, hueles a fresita, y siempre tienes dulces en el bolso, vales mil!!! "
+        },
+        {
+            "id": 2,
+            "name": "Gatit@ Empoderada",
+            "description": "Te sabes especial y que vales mucho, tu estilo es único y lo sabes hermana, siempre adelantada a los acontecimientos, te dicen la Adriana Grande Gatuna"
+        },
+        {
+            "id": 3,
+            "name": "Gatit@ Sonrisas",
+            "description": "Amig@ eres la graciosa del grupo, siempre simpática y con buen sentido del humor, que nunca decaiga el ánimo, siempre positiva"
+        },
+        {
+            "id": 4,
+            "name": "Gatit@ Spa",
+            "description": "Hermana, siempre cuidando de su cutis y su bienestar, siempre zen y oliendo a jabón del caro, te le mereces hermana que para eso trabajas"
+        },
+        {
+            "id": 5,
+            "name": "Gatit@ Oficinista",
+            "description": "Siempre trabajadora, siempre puntual, cerrando mes sin una falta y entregando todo por la empresa. Recuerda debes descansar y cargar pilas, deberías pedirle consejo a Gatit@ Spa para relajarte. Vive la vida que es corta"
+        },
+        {
+            "id": 6,
+            "name": "Gatit@ Cocktel",
+            "description": "Te gusta tomar tu vinito hermana, para estar relajada, sólo recuerda no pasarte que comienzas de mala copa y te quieres ir sin pagar, recuerda !Nada con exceso todo con medida¡"
+        },
+        {
+            "id": 7,
+            "name": "Gatit@ Millonari@",
+            "description": "Amig@ la más adinerada, el dinero y la inversión es lo tuyo, solo recuerda que las cryptos están en picada y que Elon Musk te gano la compra la Twiter, diversifica tus finanzas y no caigas en estafas piramidales "
+        },
+        {
+            "id": 8,
+            "name": "Gatit@ Brujil",
+            "description": "Amig@ siempre conectada con el universo, manifestando dinero, amor y un viaje en crucero. Tu sexto sentido siempre te ayuda, para salir de cualquier contratiempo, recuerda decretar en positivo siempre porque el universo todo te cumple."
+        },
+        {
+            "id": 9,
+            "name": "Gatit@ Channel",
+            "description": "Hermana, siempre vistiendo grandes marcas de diseñador, tienes el don de de convinar tus prendas y tus look siempre son tendencias, hueles a loción cara, abre tu tik toc y comparte looks !please¡"
+        },
+        {
+            "id": 10,
+            "name": "Gatit@ Volador/a",
+            "description": "Amiga, siempre en las nubes desconencta de la nave nodriza y aterriza tus proyectos, con tu tercer ojo siempre atinas, has caso de tus poderes alienígenas, porque tú si que eres de otro planeta"
+        },
+        {
+            "id": 11,
+            "name": "Gatit@ Capuchino",
+            "description": "Amiga, el café matutino nunca falta en tu rutina, por eso luego vas toda estresad@ intenta cambiar al descaifeinado o al té negro, un cambio siempre viene bien. Recuerda acompañar tu café con un trozo de pastel o galletas"
+        },
+        {
+            "id": 12,
+            "name": "Gatit@ Rompe Dietas",
+            "description": "Amiga se tenia que decir, lo tuyo es comer pan dulce, pero recuerda que el cuerpo pasa factura, has ejercicio, sal a correr y bajale a los trigliceridos, aplica una rutina de ejercicios, bebe 2 litros de agua al día y bajale a la sal."
+        }
+    ]
+}

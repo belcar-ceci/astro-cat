@@ -1,0 +1,28 @@
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.select-month {
+  background-color: #635f98;
+  color: white;
+  padding: 12px;
+  width: 200px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+  appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.select-month option{
+    align-items: center;
+}
+
+
+
