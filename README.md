@@ -3,13 +3,17 @@
 Astral kitten 😼 
 ============
 ## Introduction 📚
-Astral kitten is a landing page that aims to practice react concepts such as the use of useState Hook, onClick event in React, as well as functional development of components. It also includes practice with unit tests with React testing Library. The use of Cypress for e2e tests applied to a simple exercise like this project will be applied soon.
+Astral kitty is a landing page that aims to practice react concepts such as using useState Hook, the onClick event in React, as well as functional component development. Json is created to display text and images. It also includes practice with unit tests with React testing Library. The use of Cypress for e2e testing applied to a simple exercise like this project will be applied soon.
 
 ## Upcoming Features 🚀 
   - Tests e2e Cypress.
   - Change styles with SCSS. 
 
+## Build
+[Astro CAT](https://astro-gfeb3ccog-belcar-ceci.vercel.app/)
 ## Starting 🌎
+
+
 Instructions:
    - Open terminal and initial. In the project directory, you can run:
    - Clone https://github.com/belcar-ceci/astro-cat.git to download the project, fork it.
